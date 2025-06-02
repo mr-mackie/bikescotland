@@ -1,0 +1,49 @@
+body{
+    background-color:paleturquoise;
+    text-align: center;
+}
+
+.bgDark{
+    background-color: mediumturquoise;
+}
+
+a{
+    color:azure;
+    font-family: "Chango", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+    font-size: 30px;
+}
+
+a:hover{
+    color:hotpink;
+}
+
+.knewave-regular {
+  font-family: "Knewave", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.chango-regular {
+  font-family: "Chango", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+h1{
+  font-family: "Knewave", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50px;
+  color: aliceblue;
+}
+
+h2{
+    font-family: "Knewave", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 30px;
+  color: aliceblue;
+}
